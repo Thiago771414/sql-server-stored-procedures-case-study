@@ -6,6 +6,13 @@
 ![Architecture](https://img.shields.io/badge/Architecture-Database%20Layer-purple)
 ![Project Type](https://img.shields.io/badge/Project%20Type-Engineering%20Case%20Study-orange)
 
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/bdsp.png" width="900">
+</p>
+
 ---
 
 # Overview
