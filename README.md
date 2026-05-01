@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/bdsp.png" width="900">
+  <img src="https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/storedprocedure.png" width="900">
 </p>
 
 ---
